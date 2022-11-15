@@ -1,0 +1,1 @@
+This directory would contain the stuff i would like to learn regarding sjum..jum..Django
